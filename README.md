@@ -25,6 +25,8 @@ Congratulations to all the winners! And to all the participants as well. We are 
 
 Special shoutouts to **SEAL** who presented a contactless delivery service within the context of self-isolation and Halloween! As well as Team **Hexenkraft** for their Hazard Detection Robot! Amazing work everyone.
 
+### [Hackathon Live on YouTube Playlist](https://www.youtube.com/playlist?list=PLxRIXQdxuPgRjEddI_BirM9D7vqGaQK7W)
+
 
 ### What's next?
 1. Please fill out the Hackathon's [Feedback form](https://forms.gle/XBgNSmegVed6TYry6) to let us know how we did!
