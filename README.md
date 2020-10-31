@@ -23,7 +23,7 @@ Congratulations to all the winners! And to all the participants as well. We are 
 1. Third place: **TeamZero**:
    - For their Smart Parking Solution
 
-Special shoutouts to SEAL who presented a contactless delivery service within the context of self-isolation and Halloween! As well as Team Hexenkraft for their Hazard Detection Robot! Amazing work everyone.
+Special shoutouts to **SEAL** who presented a contactless delivery service within the context of self-isolation and Halloween! As well as Team **Hexenkraft** for their Hazard Detection Robot! Amazing work everyone.
 
 
 ### What's next?
