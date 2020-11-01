@@ -17,7 +17,7 @@ Steps to submit your code and presentations:
 Congratulations to all the winners! And to all the participants as well. We are so thankful for all your hard work and dedication.
 
 1. First place: **Good Boys**:
-   - For their Robotic Delivery Service, delivering drugs to patients in the hospital
+   - For their robotic delivery service, delivering drugs to patients in the hospital. The team integrated Amazon Echo support to the robot, and when asked "who’s a good boy?" the robot’s colours lit up, and it spun around in elation!
 1. Second place: **Ti-Butler**:
    - For their Unified solution to Chore Management
 1. Third place: **TeamZero**:
